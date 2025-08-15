@@ -152,6 +152,3 @@ expenses.csv
 Happy Expense Tracking! 🎯
 
 ---
-
-If you want, I can also **add small example inputs/outputs** in the README so you remember how the menu works without opening the code.
-Do you want me to add that?
